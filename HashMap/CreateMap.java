@@ -8,7 +8,7 @@ public class CreateMap {
         capCities.put("TS","Hyd");
         capCities.put("SriLanks","colombo");
 
-    System.out.println(capCities);
+       System.out.println(capCities.get("India"));
          
      }
     
