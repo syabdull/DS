@@ -9,6 +9,9 @@ public class CreateMap {
         capCities.put("SriLanks","colombo");
 
        System.out.println(capCities.get("India"));
+       System.out.println(capCities.size());
+       capCities.put("Universe","Allaha");
+       System.out.println(capCities);
          
      }
     
